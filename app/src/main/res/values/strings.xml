@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aero Charger</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="charger_activity_name">AERO Charger Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_charger">Enable</string>
+    <string name="charge_button">Charge</string>
+    <string name="volt_label">Volts</string>
+    <string name="amp_label">Amps</string>
+    <string name="charge_settings">Charge Control</string>
+    <string name="power">Power: </string>
+    <string name="power_value">0</string>
+    <string name="percent"> %</string>
+    <string name="apply"> Apply</string>
+    <string name="lock_settings">Lock</string>
+    <string name="decimal">.</string>
+</resources>
